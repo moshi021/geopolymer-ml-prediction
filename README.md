@@ -1,4 +1,4 @@
-This data is a combination data from multiple peer reviewed journal's data, here is the full list of source:
+The dataset compiled in this repository is an intregated dataset derived from multiple peer-reviewed journal publications. All data have been extracted, harmonized, and curated from the following sources:
 
 1. Afzali SA, Shayanfar MA, Ghanooni-Bagha M, Golafshani E, Ngo T. The use of machine learning techniques to investigate the properties of metakaolin-based geopolymer concrete. Journal of Cleaner Production. 2024 Mar 25;446:141305.
 2. Martinez A, Miller SA. Life cycle assessment and production cost of geopolymer concrete: A meta-analysis. Resources, Conservation and Recycling. 2025 Apr 1;215:108018.
